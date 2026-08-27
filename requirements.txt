@@ -1,0 +1,19 @@
+
+---
+
+# 4. requirements.txt
+
+Create:
+
+`requirements.txt`
+
+```text
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+notebook
+openpyxl
+ortools
